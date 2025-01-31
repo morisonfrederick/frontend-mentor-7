@@ -1,7 +1,5 @@
 import Card from "./Components/Card";
-import { useEffect, useState } from "react";
 import userData from "./data/card-data";
-import type { userDataType } from "./types/userTypes";
 
 function App() {
   return (
